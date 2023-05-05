@@ -1,3 +1,2 @@
-# unfinished_flappybird
-Just a test upload of my unfinished game
-B)
+# Flappy bird inspired game
+Still sort of unfinished. Wanted to practice making games on unity and designing pixel art / sprites :)
